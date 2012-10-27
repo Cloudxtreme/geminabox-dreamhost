@@ -67,7 +67,13 @@ you can user the [rubygems-mirror gem](https://github.com/rubygems/rubygems-mirr
 
 ## Signup for [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account.
 
-if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account you can create one using the Promo Code below you will have a discount of $30 if you pay yearly and $50 discount if you pay for 2 years.
+if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account you can create one using the Promo Code below:
+
+1. $30 discount if you pay for 1 year.
+2. $50 discount if you pay for 2 years.
+
+**Enjoy**
+
 
 ### Promo Code: "SHUKYDVIR"
 
@@ -86,4 +92,4 @@ if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared ho
 
 ##License
 
-Check LICENSE, MIT.%
+Check LICENSE, MIT.
