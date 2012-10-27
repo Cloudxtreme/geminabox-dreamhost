@@ -1,14 +1,14 @@
-# Gem In A Box on [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting
+# Gem In A Box on [Dreamhost](http://www.dreamhost.com/r.cgi?239314)
 
 This repo has the basic code for you to run Gem In A Box on [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting.
 
 ## Installation
 
-1) Create a new domain/subdomain in [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting control panel for the gem server make sure that you checked the Passenger (Ruby/Python apps only) option. You must also specify the location of the 'public' subdirectory of the Ruby on Rails (or other Rack-compliant) application at the same time which is just public.
+1) Create a new domain/subdomain in [Dreamhost](http://www.dreamhost.com/r.cgi?239314) control panel for the gem server make sure that you checked the Passenger (Ruby/Python apps only) option. You must also specify the location of the 'public' subdirectory of the Ruby on Rails (or other Rack-compliant) application at the same time which is just public.
 
 2) SSH to your server and cd to the folder of the domain/subdomain.
 
-3) Clone this repo locally or directly to your [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting domain/subdomain you wish to have the gem server.
+3) Clone this repo locally or directly to your [Dreamhost](http://www.dreamhost.com/r.cgi?239314) domain/subdomain you wish to have the gem server.
 
 	git clone https://github.com/shukydvir/geminabox-dreamhost.git
 	
@@ -52,10 +52,10 @@ or if you setup the basic auth use this
 
 	source "http://username:password@your.servers.host"
 	
-and you can access your private gems hosted on your own private gem server on [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting.
+and you can access your private gems hosted on your own private gem server on [Dreamhost](http://www.dreamhost.com/r.cgi?239314).
 ## Resources
 
-1. [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting Passenger - <http://wiki.dreamhost.com/Passenger>
+1. [Dreamhost](http://www.dreamhost.com/r.cgi?239314) Passenger - <http://wiki.dreamhost.com/Passenger>
 2. Gem In A Box - <https://github.com/cwninja/geminabox>
 3. Gem In A Box - Http Basic Auth - <https://github.com/cwninja/geminabox/wiki/Http-Basic-Auth>
 
@@ -65,7 +65,7 @@ You can create a mirror of rubygems.org with this setup just point your data fol
 
 you can user the [rubygems-mirror gem](https://github.com/rubygems/rubygems-mirror) to do this easily.
 
-## Signup for [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account.
+## Signup for [Dreamhost](http://www.dreamhost.com/r.cgi?239314) account.
 
 if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account you can create one using the Promo Code below:
 
@@ -79,7 +79,7 @@ if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared ho
 
 ## Alternatives
 
-if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) shared hosting account (you should totaly get one, their are cheap and very good) you can use the same code on openshift for example.
+if you don't have a [Dreamhost](http://www.dreamhost.com/r.cgi?239314) account (you should totaly get one, their are cheap and very good) you can use the same code on openshift for example.
 
 
 ## Contributing
